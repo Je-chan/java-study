@@ -1,0 +1,12 @@
+package example;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+		
+		// class Student 를 이용해서 student 하나를 생성하라는 의미.
+		Student studentLee = new Student();
+		
+	}
+
+}

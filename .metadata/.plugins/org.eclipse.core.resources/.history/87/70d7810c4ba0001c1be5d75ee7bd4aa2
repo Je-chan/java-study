@@ -1,0 +1,11 @@
+package example;
+
+public class Student {
+
+	// Class 의 이름은 대문자로 하는 것이 좋다.
+	public static void main(String[] args) {	
+	
+	
+	}
+
+}

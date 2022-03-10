@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/pneosmac/Desktop/personal-project/java-study/.metadata/.plugins/org.eclipse.jdt.core
+1504280643.index
+221376373.index
+1865797976.index

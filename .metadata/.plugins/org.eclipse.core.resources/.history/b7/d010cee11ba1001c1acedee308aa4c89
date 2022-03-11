@@ -1,0 +1,13 @@
+package constructor;
+
+public class Student {
+	
+	// 만들어지면 자동으로 초기화가 된
+	public int studentNumber;
+	public String studentName;
+	public int grade;
+	
+	public String showStudentInfo() {
+		return studentName + "학생의 학번은 " + studentNumber + "이고, " + grade + "학년 입니다.";
+	}
+}

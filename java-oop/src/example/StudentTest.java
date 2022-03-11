@@ -20,6 +20,14 @@ public class StudentTest {
 		studentKim.address = "경기도 성남시";
 		
 		studentKim.showStudentInfo();
+		
+		// 각각의 객체가 지니는 주소값을 찍게 된다.
+		// 지역 변수는 스택에 쌓이고, 거기에 저장되는 정보는 Heap 메모리에 쌓인다.
+		// 스택에 쌓이는 것은 참조 변수(studentKim), 거기에 할당되는 것을 참조 값이라고 한
+		
+		System.out.println(studentKim);
+		System.out.println(studentLee);
+
 
 	}
 

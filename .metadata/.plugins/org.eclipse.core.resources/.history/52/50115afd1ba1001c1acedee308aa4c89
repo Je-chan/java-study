@@ -1,0 +1,14 @@
+package constructor;
+
+public class Student {
+	
+	// 만들어지면 자동으로 초기화가 된다.
+	// String 은 null 값으로 초기화가 되고 int는 0으 초기화가 된다.
+	public int studentNumber;
+	public String studentName;
+	public int grade;
+	
+	public String showStudentInfo() {
+		return studentName + "학생의 학번은 " + studentNumber + "이고, " + grade + "학년 입니다.";
+	}
+}

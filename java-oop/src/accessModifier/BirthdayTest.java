@@ -25,7 +25,7 @@ public class BirthdayTest {
 		// 아래와 같은 잘못된 경로를 막아낼 수 있다.
 //		correctDate.month = 100
 		
-		// 추가적으로 디버깅할 때 편하다.
+		// 추가적으로 디버깅할 때 편하다.s
 	}
 
 }
